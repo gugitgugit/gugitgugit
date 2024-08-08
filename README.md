@@ -16,21 +16,19 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 
-<hr/>
-<!--
-**gugitgugit/gugitgugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 멋쟁이사자처럼 12기 영남대학교 아기사자 (2024.03 ~ 2024.08)
+  
+---
+
+### SNS
+
+<a href="mailto:rnwnsgur28@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
 
 ![gugitgugit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugitgugit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugitgugit&layout=compact)
