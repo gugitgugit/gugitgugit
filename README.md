@@ -16,13 +16,9 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 
----
-
 ### Activity
 
 - 멋쟁이사자처럼 12기 영남대학교 아기사자 (2024.03 ~ 2024.08)
-  
----
 
 ### SNS
 
@@ -31,6 +27,8 @@
 </a>
 
 ---
+
+## Detail
 
 ![gugitgugit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugitgugit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugitgugit&layout=compact)
