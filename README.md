@@ -30,5 +30,7 @@
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
+---
+
 ![gugitgugit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugitgugit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugitgugit&layout=compact)
