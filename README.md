@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 
+<hr/>
 <!--
 **gugitgugit/gugitgugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
