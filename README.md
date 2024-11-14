@@ -1,5 +1,14 @@
 ## 안녕하세요! 구준혁입니다 👋<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgugitgugit&count_bg=%23000000&title_bg=%238D8C8C&icon=&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false" align="right"/></a>
 
+### GitAnimals
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gugitgugit"
+  width="600"
+  height="300"
+/>
+</a>
+
 ### Tech Stack
 
 <b>Language</b> : 
