@@ -1,4 +1,4 @@
-## 안녕하세요! 구준혁입니다 👋<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgugitgugit&count_bg=%23000000&title_bg=%238D8C8C&icon=&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false" align="right"/></a>
+## 안녕하세요! 구준혁입니다 👋<a href="https://hits.seeyoufarm.com">
 
 ### GitAnimals
 <a href="https://github.com/devxb/gitanimals">
@@ -36,10 +36,3 @@
 <a href="mailto:rnwnsgur28@gmail.com">
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
-
----
-
-## Detail
-
-![gugitgugit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugitgugit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugitgugit&layout=compact)
