@@ -1,29 +1,35 @@
-## 안녕하세요! 구준혁입니다 👋<a href="https://hits.seeyoufarm.com">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=32&pause=1000&color=000000&vCenter=true&width=500&lines=Koo+Jun+Hyeok's+GitHub;" />
+</p>
 
-### Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-<b>Language</b> : 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<h4 align="center">💻 Language</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<b>Front-End</b> : 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<h4 align="center">🎨 Front-End</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
-<b>Back-End</b> : 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<h4 align="center">⚙ Back-End</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-<b>Communication</b> : 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+<h4 align="center">🤝 Communication</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
-### Activity
 
-- 🦁 멋쟁이사자처럼 12기 아기사자 (2024.03 ~ 2024.08)
-- 🦁 멋쟁이사자처럼 13기 프론트엔드 교육 운영진 (2025. 01 ~)
+<h2>📊 GitHub Stats</h2>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gugitgugit"
-  height=200
-/>
-</a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gugitgugit&show_icons=true&theme=graywhite" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugitgugit&layout=compact&theme=graywhite" />
+</p>
