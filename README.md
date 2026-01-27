@@ -1,14 +1,5 @@
 ## 안녕하세요! 구준혁입니다 👋<a href="https://hits.seeyoufarm.com">
 
-### GitAnimals
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gugitgugit"
-  width="600"
-  height="300"
-/>
-</a>
-
 ### Tech Stack
 
 <b>Language</b> : 
@@ -27,12 +18,12 @@
 
 ### Activity
 
-- 멋쟁이사자처럼 12기 아기사자 (2024.03 ~ 2024.08)
-- 멋쟁이사자처럼 12기 중앙 해커톤 본선 진출 (2024. 08)
-- 멋쟁이사자처럼 13기 프론트엔드 교육 운영진 (2025. 01 ~)
+- 🦁 멋쟁이사자처럼 12기 아기사자 (2024.03 ~ 2024.08)
+- 🦁 멋쟁이사자처럼 13기 프론트엔드 교육 운영진 (2025. 01 ~)
 
-### SNS
-
-<a href="mailto:rnwnsgur28@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gugitgugit"
+  height=200
+/>
 </a>
