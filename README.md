@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/wave-divider.svg" width="100%" alt=""/>
-    Hi there, I'm Junhyeok Koo 👋
 </div>
 
 <div align="center">
