@@ -3,7 +3,6 @@
     Hi there, I'm Junhyeok Koo 👋
 </div>
 
-## Tech Stack
 <div align="center">
   
 **Languages**<br/>
